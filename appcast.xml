@@ -3,6 +3,15 @@
     <channel>
         <title>PomoFox</title>
         <item>
+            <title>1.20.2</title>
+            <pubDate>Wed, 28 Oct 2026 12:02:54 +0800</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.20.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/hey-yvan/pomofox-releases/releases/download/v1.20.2/PomoFox-1.20.2.dmg" length="60956204" type="application/octet-stream" sparkle:edSignature="Flv1RbyqYtvroMRlexsLJEZK/yK4paRTOdu3asYN6JX6eHrKSSsHmbkJ8NIErHc6Zt23+6SoMt2sfShOyfULBg=="/>
+        </item>
+        <item>
             <title>1.20.1</title>
             <pubDate>Wed, 28 Oct 2026 10:50:28 +0800</pubDate>
             <sparkle:version>39</sparkle:version>
